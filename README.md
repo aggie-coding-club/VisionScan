@@ -1,2 +1,1 @@
-#VisionScan
-Uses Python and OpenCV
+Clone this repository by hitting the "Code" button.
