@@ -1,2 +1,2 @@
-"# VisionScan" 
-"# VisionScan" 
+#VisionScan
+Uses Python and OpenCV
