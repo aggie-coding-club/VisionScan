@@ -1,7 +1,7 @@
 #
 # Project Name:         VisionScan
-# Chapter:              1
-# Program:              Opening an Image
+# Chapter:              2
+# Program:              Manipulating Images
 # Date:                 11/05/2021
 # Edited by:            Albert Ma
 #
