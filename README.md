@@ -4,4 +4,6 @@
 Clone this repository by hitting the "Code" button.
 
 ## To install OpenCV
+```
 $ pip install opencv-python
+```
