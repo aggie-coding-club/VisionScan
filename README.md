@@ -1,4 +1,4 @@
-# VisionScan (name not final)
+# VisionScan (unofficial name)
 
 ## Cloning this Repository
 - Clone this repository by hitting the "Code" button.
