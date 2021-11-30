@@ -9,7 +9,7 @@
 import cv2
 import numpy as np
 
-sampleImg = cv2.imread('Resources\lena.png')
+sampleImg = cv2.imread('Resources/lena.png')
 kernel = np.ones((5,5), np.uint8)   # to be used for dilation
 
 imgColorConvert = cv2.cvtColor(sampleImg,cv2.COLOR_BGR2GRAY)    # Color Conversion
